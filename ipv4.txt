@@ -62,3 +62,14 @@ vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.24.196.20:443?sni=api2.htve.ir&
 vless://fbc05b63-d4af-4f36-a254-bd97b2723a32@146.75.36.223:443?sni=www.python.org&security=tls&type=ws&path=/telegram%3Djd_vpn?ed%3D1024&host=sepehr-shaparak.ir#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-146.75.36.223:443
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.180:443#alireza180
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#%F0%9F%94%92%20%DA%A9%D9%81%D8%B4%20%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA%20PL-217.30.10.18:9019
+vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.18.23.10:443?sni=api2.htve.ir&security=tls&type=ws&path=/&host=api2.htve.ir#VL-WS-TLS%25tabiatNA-104.18.23.10:443
+vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.18.23.21:443?sni=api2.htve.ir&security=tls&type=ws&path=/&host=api2.htve.ir#VL-WS-TLS%25tabiatNA-104.18.23.21:443
+vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.18.23.24:443?sni=api2.htve.ir&security=tls&type=ws&path=/&host=api2.htve.ir#VL-WS-TLS%25tabiatNA-104.18.23.24:443
+vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.18.23.100:443?sni=api2.htve.ir&security=tls&type=ws&path=/&host=api2.htve.ir#VL-WS-TLS%25tabiatNA-104.18.23.100:443
+vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.18.23.117:443?sni=api2.htve.ir&security=tls&type=ws&path=/&host=api2.htve.ir#VL-WS-TLS%25tabiatNA-104.18.23.117:443
+vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.18.23.124:443?sni=api2.htve.ir&security=tls&type=ws&path=/&host=api2.htve.ir#VL-WS-TLS%25tabiatNA-104.18.23.124:443
+vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.18.23.128:443?sni=api2.htve.ir&security=tls&type=ws&path=/&host=api2.htve.ir#VL-WS-TLS%25tabiatNA-104.18.23.128:443
+vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.18.23.181:443?sni=api2.htve.ir&security=tls&type=ws&path=/&host=api2.htve.ir#VL-WS-TLS%25tabiatNA-104.18.23.181:443
+vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.18.23.208:443?sni=api2.htve.ir&security=tls&type=ws&path=/&host=api2.htve.ir#VL-WS-TLS%25tabiatNA-104.18.23.208:443
+vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.18.23.228:443?sni=api2.htve.ir&security=tls&type=ws&path=/&host=api2.htve.ir#VL-WS-TLS%25tabiatNA-104.18.23.228:443
+vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.18.23.252:443?sni=api2.htve.ir&security=tls&type=ws&path=/&host=api2.htve.ir#VL-WS-TLS%25tabiatNA-104.18.23.252:443
