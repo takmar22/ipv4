@@ -1,0 +1,1730 @@
+﻿{
+  "items": [
+    {
+      "groupid": "custom",
+      "type": "singbox",
+      "site": "",
+      "remark": "سفارشی",
+      "urlOrPath": "",
+      "userAgentCompatible": "",
+      "enableDiversionRules": true,
+      "reloadAfterProfileUpdate": true,
+      "testLatencyAfterProfileUpdate": false,
+      "testLatencyAutoRemove": false,
+      "enable": true,
+      "editAble": false,
+      "updateTime": "",
+      "updateDurationMinutes": null,
+      "traffic": null,
+      "disableIsp": false,
+      "isp": null,
+      "ispScheme": null,
+      "servers": [],
+      "urltests": []
+    },
+    {
+      "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+      "type": "v2ray",
+      "site": "",
+      "remark": "ipv4",
+      "urlOrPath": "https://raw.githubusercontent.com/takmar22/ipv4/main/ipv4.txt",
+      "userAgentCompatible": "ClashMeta;sing-box;clash-verge;NekoBox/Android/1.3.1 (Perfer ClashMeta Format);HiddifyNext;v2ray",
+      "enableDiversionRules": true,
+      "reloadAfterProfileUpdate": true,
+      "testLatencyAfterProfileUpdate": true,
+      "testLatencyAutoRemove": true,
+      "enable": true,
+      "editAble": false,
+      "updateTime": "2024-06-16 12:34:51.145884",
+      "updateDurationMinutes": null,
+      "traffic": null,
+      "disableIsp": false,
+      "isp": null,
+      "ispScheme": null,
+      "servers": [
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "535",
+          "server": "80.92.204.106",
+          "server_port": 9015,
+          "tag": "🔐 tabiat.shoess🔓_33",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "ZpNDDKRu9MagNvaf"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "546",
+          "server": "80.92.204.106",
+          "server_port": 9020,
+          "tag": "🔐 tabiat.shoess🔓_35",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "BNmAXXxAHYpTRdzu"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1088",
+          "server": "190.103.176.29",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇦🇷AR_58",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "710",
+          "server": "185.164.35.9",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇧🇦BA_64",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "520",
+          "server": "213.183.63.69",
+          "server_port": 9000,
+          "tag": "🔐 tabiat.shoess🔓🇧🇬BG_69",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "a3GFYt36Sm82Vys9"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "542",
+          "server": "213.183.63.69",
+          "server_port": 9011,
+          "tag": "🔐 tabiat.shoess🔓🇧🇬BG_71",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "M3t2ZEQcMGRWBjRa"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "544",
+          "server": "213.183.63.69",
+          "server_port": 9037,
+          "tag": "🔐 tabiat.shoess🔓🇧🇬BG_74",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "TN2YqghxeFDKZfLU"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "490",
+          "server": "213.183.63.69",
+          "server_port": 9040,
+          "tag": "🔐 tabiat.shoess🔓🇧🇬BG_75",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "p9z5BVADH2YFs3MN"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "498",
+          "server": "213.183.63.69",
+          "server_port": 9029,
+          "tag": "🔐 tabiat.shoess🔓🇧🇬BG_76",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "dU3DSNS8wYPXzEKw"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "534",
+          "server": "213.183.63.69",
+          "server_port": 9031,
+          "tag": "🔐 tabiat.shoess🔓🇧🇬BG_77",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "BwcAUZk8hUFAkDGN"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "561",
+          "server": "213.183.63.69",
+          "server_port": 9025,
+          "tag": "🔐 tabiat.shoess🔓🇧🇬BG_80",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "XPtzA9sCug3SPR4c"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "370",
+          "server": "213.183.63.69",
+          "server_port": 9005,
+          "tag": "🔐 tabiat.shoess🔓🇧🇬BG_81",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "ZET59LF6DvCC8KVt"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "391",
+          "server": "46.183.217.232",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇧🇿BZ_83",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "955",
+          "server": "190.120.230.9",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇨🇱CL_144",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1299",
+          "server": "138.59.16.146",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇨🇴CO_160",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "902",
+          "server": "190.120.231.45",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇨🇴CO_161",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "551",
+          "server": "213.169.137.221",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇨🇾CY_178",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "414",
+          "server": "80.92.204.106",
+          "server_port": 9031,
+          "tag": "🔐 tabiat.shoess🔓🇩🇪DE_185",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "BwcAUZk8hUFAkDGN"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "469",
+          "server": "80.92.204.106",
+          "server_port": 9005,
+          "tag": "🔐 tabiat.shoess🔓🇩🇪DE_186",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "ZET59LF6DvCC8KVt"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "410",
+          "server": "80.92.204.106",
+          "server_port": 9027,
+          "tag": "🔐 tabiat.shoess🔓🇩🇪DE_188",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "EXN3S3eQpjE7EJu8"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "406",
+          "server": "80.92.204.106",
+          "server_port": 9080,
+          "tag": "🔐 tabiat.shoess🔓🇩🇪DE_190",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "VP8ZPxQpJtZRCjfZ"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "320",
+          "server": "80.92.204.106",
+          "server_port": 9006,
+          "tag": "🔐 tabiat.shoess🔓🇩🇪DE_194",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "FAdUvMJUq5vDgKEq"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "327",
+          "server": "80.92.204.106",
+          "server_port": 9010,
+          "tag": "🔐 tabiat.shoess🔓🇩🇪DE_195",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f63gg8EruDnUrmz4"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "325",
+          "server": "80.92.204.106",
+          "server_port": 9084,
+          "tag": "🔐 tabiat.shoess🔓🇩🇪DE_196",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "c3NtHJ5ujV2tGDfj"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1070",
+          "server": "179.49.5.114",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇪🇨EC_206",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "414",
+          "server": "77.72.5.150",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇬🇧GB_324",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "418",
+          "server": "77.72.5.113",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇬🇧GB_338",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1250",
+          "server": "62.12.116.66",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇰🇪KE_400",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "348",
+          "server": "195.238.126.84",
+          "server_port": 9039,
+          "tag": "🔐 tabiat.shoess🔓🇱🇹LT_408",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "qYEN5HX4JKeVCdEC"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "641",
+          "server": "192.36.61.59",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇱🇹LT_409",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "493",
+          "server": "178.175.134.2",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇲🇩MD_415",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1320",
+          "server": "190.103.179.23",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇲🇽MX_421",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "256",
+          "server": "109.201.152.181",
+          "server_port": 443,
+          "tag": "🔐 tabiat.shoess🔓🇳🇱NL_422",
+          "type": "shadowsocks",
+          "method": "aes-128-cfb",
+          "password": "shadowsocks"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "511",
+          "server": "185.90.61.153",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇳🇴NO_438",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1104",
+          "server": "138.186.142.4",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇵🇦PA_439",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1056",
+          "server": "190.120.229.28",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇵🇪PE_440",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "353",
+          "server": "217.30.10.18",
+          "server_port": 9019,
+          "tag": "🔐 tabiat.shoess🔓🇵🇱PL_458",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "GA9KzeEgvfxNrgmM"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "450",
+          "server": "185.113.140.22",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇵🇹PT_477",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1032",
+          "server": "179.27.200.28",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇺🇾UY_1512",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1096",
+          "server": "41.203.4.34",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇿🇦ZA_1516",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "615",
+          "server": "92.38.163.53",
+          "server_port": 989,
+          "tag": "🔒 SS-TCP-NA 🇱🇺 LU-🔐 tabiat.shoess🔓",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1229",
+          "server": "192.71.166.102",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓 SS-TCP-NA 🇬🇷 GR-",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1032",
+          "server": "37.235.49.152",
+          "server_port": 989,
+          "tag": "🔒 SS-TCP-NA 🇮🇸 IS-37.235.49.152:989",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "809",
+          "server": "46.183.184.60",
+          "server_port": 989,
+          "tag": "🔒 SS-TCP-NA 🇭🇷 HR-🔐 tabiat.shoess🔓",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "319",
+          "server": "213.183.63.62",
+          "server_port": 9019,
+          "tag": "🔒 takmar2023  t-213.183.63.62:9019",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "GA9KzeEgvfxNrgmM"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "335",
+          "server": "213.183.63.60",
+          "server_port": 9019,
+          "tag": "🔒 takmar2023  t-213.183.63.60",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "GA9KzeEgvfxNrgmM"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "350",
+          "server": "213.183.63.59",
+          "server_port": 9019,
+          "tag": "🔐 tabiat.shoess🔓-59",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "GA9KzeEgvfxNrgmM"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1116",
+          "server": "146.185.248.22",
+          "server_port": 989,
+          "tag": "🔒 SS-TCP-NA 🇦🇲 AM-🔐 tabiat.shoess🔓",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1194",
+          "server": "213.156.137.67",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓 📡 PING-205.39-MS",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "870",
+          "server": "192.71.244.150",
+          "server_port": 989,
+          "tag": "🔒 SS-TCP-NA 🇸🇮 SI-🔐 tabiat.shoess🔓",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "940",
+          "server": "192.121.87.147",
+          "server_port": 989,
+          "tag": "🔒 SS-TCP-NA 🇲🇩 MD-🔐 tabiat.shoess🔓",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "284",
+          "server": "45.89.52.46",
+          "server_port": 9001,
+          "tag": "🔒TR -instageam  tabiat.shoess",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "UkXRsXvR6buDMG2Y"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "314",
+          "server": "213.183.63.62",
+          "server_port": 9001,
+          "tag": "🔐 takmar2023🔓 -213.183.63.62",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "UkXRsXvR6buDMG2Y"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "293",
+          "server": "213.183.63.60",
+          "server_port": 9001,
+          "tag": "🔐 takmar2023🔓  -213.183.63.60",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "UkXRsXvR6buDMG2Y"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "621",
+          "server": "13.113.204.156",
+          "server_port": 443,
+          "tag": "🔒 SS-TCP-NA 🇯🇵 JP-13.113.204.156:443",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "amazonskr05"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "978",
+          "server": "46.183.185.37",
+          "server_port": 989,
+          "tag": "🔒 SS-TCP-NA 🇲🇰 MK-46.183.185.37:989",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "964",
+          "server": "46.183.185.15",
+          "server_port": 989,
+          "tag": "🔒 SS-TCP-NA 🇲🇰 MK-46.183.185.15:989",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "591",
+          "server": "142.0.134.241",
+          "server_port": 45017,
+          "tag": "🔒 VM-TCP-NA 🇺🇸 US-142.0.134.241:45017",
+          "type": "vmess",
+          "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
+          "security": "auto",
+          "alter_id": 64
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "322",
+          "server": "217.30.10.44",
+          "server_port": 9019,
+          "tag": "🔒 tabiat.shoess 🇵🇱 PL-217.30.10.18:9019",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "GA9KzeEgvfxNrgmM"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "318",
+          "server": "217.30.10.70",
+          "server_port": 9019,
+          "tag": "🔒 tabiat.shoess 🇵🇱 PL-217.30.10.18:9019-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "GA9KzeEgvfxNrgmM"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "361",
+          "server": "109.201.152.180",
+          "server_port": 443,
+          "tag": "alireza180",
+          "type": "shadowsocks",
+          "method": "aes-128-cfb",
+          "password": "shadowsocks"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "668",
+          "server": "185.123.101.241",
+          "server_port": 989,
+          "tag": "🔒 SS-TCP-NA 🇹🇷 TR-🔐 tabiat.shoess🔓",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "323",
+          "server": "213.183.63.69",
+          "server_port": 9073,
+          "tag": "🔐 tabiat.shoess🔓🇧🇬BG_59",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "daFYagqDdBdA6VTX"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "354",
+          "server": "213.183.63.69",
+          "server_port": 9041,
+          "tag": "🔐 tabiat.shoess🔓🇧🇬BG_61",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "U6qnYRhfyDmn8sgn"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "633",
+          "server": "80.92.204.106",
+          "server_port": 9000,
+          "tag": "🔐 tabiat.shoess🔓🇩🇪DE_172",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "a3GFYt36Sm82Vys9"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1555",
+          "server": "185.255.123.90",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇬🇧GB_313",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1023",
+          "server": "192.71.166.100",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇬🇷GR_333",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "826",
+          "server": "46.183.184.62",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇭🇷HR_346",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1009",
+          "server": "18.183.168.200",
+          "server_port": 443,
+          "tag": "🇯🇵JP_360",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "amazonskr05"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "631",
+          "server": "18.183.130.46",
+          "server_port": 443,
+          "tag": "🔐 tabiat.shoess🔓🇯🇵JP_363",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "amazonskr05"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1051",
+          "server": "188.214.157.5",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇲🇩MD_390",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "457",
+          "server": "103.172.116.94",
+          "server_port": 9097,
+          "tag": "🇸🇬SG_483",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "Sn5B7jTqr76aCJT8"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "479",
+          "server": "103.172.116.103",
+          "server_port": 9057,
+          "tag": "🇸🇬SG_484",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "wjTugX3ZtHMB9c3Z"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "411",
+          "server": "103.172.116.103",
+          "server_port": 9099,
+          "tag": "🇸🇬SG_488",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "7heRqkPG3hg4UnRm"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "464",
+          "server": "103.172.116.94",
+          "server_port": 9073,
+          "tag": "🇸🇬SG_489",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "daFYagqDdBdA6VTX"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "443",
+          "server": "103.172.116.79",
+          "server_port": 9031,
+          "tag": "🇸🇬SG_490",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "BwcAUZk8hUFAkDGN"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "565",
+          "server": "103.172.116.103",
+          "server_port": 9032,
+          "tag": "🇸🇬SG_495",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "UWZQeLRWnkqgkseq"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "647",
+          "server": "103.172.116.103",
+          "server_port": 9053,
+          "tag": "🇸🇬SG_496",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "SBM7R883jBmnqe6C"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "533",
+          "server": "103.172.116.79",
+          "server_port": 9080,
+          "tag": "🇸🇬SG_497",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "VP8ZPxQpJtZRCjfZ"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "420",
+          "server": "103.172.116.103",
+          "server_port": 9019,
+          "tag": "🇸🇬SG_498",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "GA9KzeEgvfxNrgmM"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "453",
+          "server": "103.172.116.79",
+          "server_port": 9064,
+          "tag": "🔐 tabiat.shoess🔓🇸🇬SG_499",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "cp8pRSUAyLhTfVWH"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "463",
+          "server": "103.172.116.103",
+          "server_port": 9033,
+          "tag": "🇸🇬SG_500",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "UTJA57ypk2XKQpnm"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "734",
+          "server": "103.172.116.103",
+          "server_port": 9058,
+          "tag": "🇸🇬SG_501",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "dML2sfhbVwvtfNPe"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "521",
+          "server": "103.172.116.103",
+          "server_port": 9059,
+          "tag": "🔐 tabiat.shoess🔓🇸🇬SG_505",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "9XwYyZsK8SNzQDtY"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "449",
+          "server": "103.172.116.79",
+          "server_port": 9007,
+          "tag": "🇸🇬SG_506",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "kSPmvwdFzGMMW5pY"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "542",
+          "server": "103.172.116.79",
+          "server_port": 9025,
+          "tag": "🇸🇬SG_510",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "XPtzA9sCug3SPR4c"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "520",
+          "server": "103.172.116.94",
+          "server_port": 9050,
+          "tag": "🇸🇬SG_511",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "FG5ddLsMPbV5CutE"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "502",
+          "server": "103.172.116.79",
+          "server_port": 9006,
+          "tag": "🇸🇬SG_513",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "FAdUvMJUq5vDgKEq"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "443",
+          "server": "103.172.116.79",
+          "server_port": 9014,
+          "tag": "🇸🇬SG_514",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "KnJGad3FqTvjqbaX"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "431",
+          "server": "103.172.116.79",
+          "server_port": 9030,
+          "tag": "🇸🇬SG_515",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "GeregetR8cvQHzYr"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "432",
+          "server": "103.172.116.79",
+          "server_port": 9084,
+          "tag": "🔐 tabiat.shoess🔓🇸🇬SG_516",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "c3NtHJ5ujV2tGDfj"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "433",
+          "server": "103.172.116.79",
+          "server_port": 9045,
+          "tag": "🇸🇬SG_525",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "Lp27rqyJq72bZsqX"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "435",
+          "server": "103.172.116.79",
+          "server_port": 9061,
+          "tag": "🇸🇬SG_526",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "4R3hUfZ2FHhDmNcP"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "439",
+          "server": "103.172.116.79",
+          "server_port": 9010,
+          "tag": "🇸🇬SG_528",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f63gg8EruDnUrmz4"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "427",
+          "server": "103.172.116.79",
+          "server_port": 9024,
+          "tag": "🇸🇬SG_529",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "BejrQvtu9sqUeNuZ"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "459",
+          "server": "103.172.116.103",
+          "server_port": 9030,
+          "tag": "🇸🇬SG_530",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "GeregetR8cvQHzYr"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "547",
+          "server": "103.172.116.79",
+          "server_port": 9019,
+          "tag": "🇸🇬SG_531",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "GA9KzeEgvfxNrgmM"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "470",
+          "server": "103.172.116.103",
+          "server_port": 9040,
+          "tag": "🇸🇬SG_533",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "p9z5BVADH2YFs3MN"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "433",
+          "server": "103.172.116.79",
+          "server_port": 9001,
+          "tag": "🇸🇬SG_534",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "UkXRsXvR6buDMG2Y"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "444",
+          "server": "103.172.116.79",
+          "server_port": 9043,
+          "tag": "🇸🇬SG_537",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "HSZuyJQcWe8dxNdF"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "503",
+          "server": "103.172.116.79",
+          "server_port": 9020,
+          "tag": "🇸🇬SG_538",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "BNmAXXxAHYpTRdzu"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "530",
+          "server": "103.172.116.79",
+          "server_port": 9032,
+          "tag": "🇸🇬SG_539",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "UWZQeLRWnkqgkseq"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "491",
+          "server": "103.172.116.103",
+          "server_port": 9005,
+          "tag": "🇸🇬SG_542",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "ZET59LF6DvCC8KVt"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "496",
+          "server": "103.172.116.103",
+          "server_port": 9008,
+          "tag": "🇸🇬SG_543",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "y9VURyNzJWNRYEGQ"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "431",
+          "server": "103.172.116.103",
+          "server_port": 9079,
+          "tag": "🇸🇬SG_545",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "TPqX8edgbAURcAMb"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "419",
+          "server": "103.172.116.103",
+          "server_port": 9010,
+          "tag": "🇸🇬SG_547",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f63gg8EruDnUrmz4"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "698",
+          "server": "13.215.177.171",
+          "server_port": 443,
+          "tag": "🇸🇬SG_549",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "amazonskr05"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "454",
+          "server": "103.172.116.79",
+          "server_port": 9094,
+          "tag": "🇸🇬SG_550",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "rpgbNnU9rDDU4aWZ"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "478",
+          "server": "103.172.116.79",
+          "server_port": 9053,
+          "tag": "🇸🇬SG_552",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "SBM7R883jBmnqe6C"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "428",
+          "server": "103.172.116.79",
+          "server_port": 9093,
+          "tag": "🇸🇬SG_554",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "wfLC2y7rzZyCmuyt"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "469",
+          "server": "103.172.116.103",
+          "server_port": 9006,
+          "tag": "🇸🇬SG_555",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "FAdUvMJUq5vDgKEq"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "428",
+          "server": "103.172.116.79",
+          "server_port": 9079,
+          "tag": "🇸🇬SG_556",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "TPqX8edgbAURcAMb"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "438",
+          "server": "103.172.116.79",
+          "server_port": 9027,
+          "tag": "🇸🇬SG_563",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "EXN3S3eQpjE7EJu8"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "472",
+          "server": "103.172.116.79",
+          "server_port": 9005,
+          "tag": "🇸🇬SG_565",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "ZET59LF6DvCC8KVt"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "445",
+          "server": "103.172.116.94",
+          "server_port": 9070,
+          "tag": "🇸🇬SG_566",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "bf7v334KKDV3YDhH"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "431",
+          "server": "103.172.116.79",
+          "server_port": 9033,
+          "tag": "🇸🇬SG_567",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "UTJA57ypk2XKQpnm"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "433",
+          "server": "103.172.116.94",
+          "server_port": 9006,
+          "tag": "🇸🇬SG_569",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "FAdUvMJUq5vDgKEq"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "447",
+          "server": "103.172.116.103",
+          "server_port": 9097,
+          "tag": "🇸🇬SG_575",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "Sn5B7jTqr76aCJT8"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "880",
+          "server": "43.202.43.179",
+          "server_port": 443,
+          "tag": "🔐 tabiat.shoess🔓🇺🇸US_1077",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "amazonskr05"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "369",
+          "server": "213.183.63.69",
+          "server_port": 9042,
+          "tag": "کلبه کامپیوتر🇧🇬BG_73",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "S7KwUu7yBy58S3Ga"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "424",
+          "server": "213.183.63.69",
+          "server_port": 9030,
+          "tag": "🔐 tabiat.shoess🔓🇧🇬BG_74-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "GeregetR8cvQHzYr"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "881",
+          "server": "54.180.230.217",
+          "server_port": 443,
+          "tag": "🇰🇷KR_374",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "amazonskr05"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "464",
+          "server": "103.172.116.94",
+          "server_port": 9026,
+          "tag": "🇸🇬SG_492",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "QWDDvVE9npNurQfA"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "483",
+          "server": "103.172.116.103",
+          "server_port": 9046,
+          "tag": "🇸🇬SG_496-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "NvS8N4Vf8qAGPSCL"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "570",
+          "server": "103.172.116.103",
+          "server_port": 9070,
+          "tag": "🇸🇬SG_497-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "bf7v334KKDV3YDhH"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "428",
+          "server": "103.172.116.103",
+          "server_port": 9045,
+          "tag": "🇸🇬SG_499",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "Lp27rqyJq72bZsqX"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "424",
+          "server": "103.172.116.94",
+          "server_port": 9098,
+          "tag": "🇸🇬SG_501-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "aLpQtfEZe445QyHk"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "487",
+          "server": "103.172.116.103",
+          "server_port": 9041,
+          "tag": "🇸🇬SG_508",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "U6qnYRhfyDmn8sgn"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "441",
+          "server": "103.172.116.94",
+          "server_port": 9000,
+          "tag": "🇸🇬SG_511-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "a3GFYt36Sm82Vys9"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "456",
+          "server": "103.172.116.103",
+          "server_port": 9000,
+          "tag": "🇸🇬SG_512",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "a3GFYt36Sm82Vys9"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "437",
+          "server": "103.172.116.94",
+          "server_port": 9011,
+          "tag": "🇸🇬SG_515-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "M3t2ZEQcMGRWBjRa"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "445",
+          "server": "103.172.116.103",
+          "server_port": 9011,
+          "tag": "🇸🇬SG_517",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "M3t2ZEQcMGRWBjRa"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "430",
+          "server": "103.172.116.94",
+          "server_port": 9053,
+          "tag": "🇸🇬SG_519",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "SBM7R883jBmnqe6C"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "482",
+          "server": "103.172.116.103",
+          "server_port": 9098,
+          "tag": "🇸🇬SG_523",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "aLpQtfEZe445QyHk"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "481",
+          "server": "103.172.116.103",
+          "server_port": 9093,
+          "tag": "🇸🇬SG_544",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "wfLC2y7rzZyCmuyt"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "473",
+          "server": "103.172.116.103",
+          "server_port": 9073,
+          "tag": "🔐 tabiat.shoess🔓🇸🇬SG_552",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "daFYagqDdBdA6VTX"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "443",
+          "server": "103.172.116.94",
+          "server_port": 9060,
+          "tag": "🇸🇬SG_553",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "ueLXVkvh4hckhErQ"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "419",
+          "server": "103.172.116.79",
+          "server_port": 9041,
+          "tag": "🇸🇬SG_555-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "U6qnYRhfyDmn8sgn"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "444",
+          "server": "103.172.116.94",
+          "server_port": 9045,
+          "tag": "🇸🇬SG_557",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "Lp27rqyJq72bZsqX"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "478",
+          "server": "103.172.116.103",
+          "server_port": 9026,
+          "tag": "🇸🇬SG_567-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "QWDDvVE9npNurQfA"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "428",
+          "server": "103.172.116.103",
+          "server_port": 9042,
+          "tag": "🇸🇬SG_568",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "S7KwUu7yBy58S3Ga"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "661",
+          "server": "103.172.116.79",
+          "server_port": 9059,
+          "tag": "🇸🇬SG_578",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "9XwYyZsK8SNzQDtY"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "663",
+          "server": "103.172.116.94",
+          "server_port": 9080,
+          "tag": "🇸🇬SG_581",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "VP8ZPxQpJtZRCjfZ"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "701",
+          "server": "31.171.153.178",
+          "server_port": 989,
+          "tag": "🔐 tabiat.shoess🔓🇦🇱AL_48",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "445",
+          "server": "213.183.63.69",
+          "server_port": 9003,
+          "tag": "🔐 tabiat.shoess🔓🇧🇬BG_69-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "JdmRK9gMEqFgs8nP"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "338",
+          "server": "5.188.181.201",
+          "server_port": 9031,
+          "tag": "🔐 tabiat.shoess🔓🇪🇸ES_199",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "BwcAUZk8hUFAkDGN"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1462",
+          "server": "5.188.181.201",
+          "server_port": 9040,
+          "tag": "🔐 tabiat.shoess🔓🇪🇸ES_201",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "p9z5BVADH2YFs3MN"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "740",
+          "server": "52.79.247.2",
+          "server_port": 443,
+          "tag": "🇰🇷KR_385",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "amazonskr05"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "349",
+          "server": "45.89.52.66",
+          "server_port": 9001,
+          "tag": "🔐 tabiat.shoess🔓🇷🇺RU_476",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "UkXRsXvR6buDMG2Y"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "396",
+          "server": "45.89.52.66",
+          "server_port": 9040,
+          "tag": "🔐 tabiat.shoess🔓🇷🇺RU_479",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "p9z5BVADH2YFs3MN"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "387",
+          "server": "45.89.52.66",
+          "server_port": 9043,
+          "tag": "🔐 tabiat.shoess🔓🇷🇺RU_483",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "HSZuyJQcWe8dxNdF"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "435",
+          "server": "103.172.116.94",
+          "server_port": 9056,
+          "tag": "🇸🇬SG_508-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "rNBfNuuANFCAk7KB"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "425",
+          "server": "103.172.116.94",
+          "server_port": 9010,
+          "tag": "🇸🇬SG_509",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f63gg8EruDnUrmz4"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "445",
+          "server": "103.172.116.94",
+          "server_port": 9019,
+          "tag": "🇸🇬SG_512-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "GA9KzeEgvfxNrgmM"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "482",
+          "server": "103.172.116.103",
+          "server_port": 9043,
+          "tag": "🇸🇬SG_526-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "HSZuyJQcWe8dxNdF"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "437",
+          "server": "103.172.116.103",
+          "server_port": 9094,
+          "tag": "🔐 tabiat.shoess🔓🇸🇬SG_529",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "rpgbNnU9rDDU4aWZ"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "629",
+          "server": "18.143.159.186",
+          "server_port": 443,
+          "tag": "🇸🇬SG_532",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "amazonskr05"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "433",
+          "server": "103.172.116.79",
+          "server_port": 9050,
+          "tag": "🇸🇬SG_536",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "FG5ddLsMPbV5CutE"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "428",
+          "server": "103.172.116.94",
+          "server_port": 9094,
+          "tag": "🇸🇬SG_541",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "rpgbNnU9rDDU4aWZ"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "458",
+          "server": "103.172.116.79",
+          "server_port": 9056,
+          "tag": "🇸🇬SG_554-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "rNBfNuuANFCAk7KB"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "453",
+          "server": "103.172.116.79",
+          "server_port": 9046,
+          "tag": "🇸🇬SG_555-2",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "NvS8N4Vf8qAGPSCL"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "437",
+          "server": "103.172.116.79",
+          "server_port": 9097,
+          "tag": "🇸🇬SG_559",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "Sn5B7jTqr76aCJT8"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "432",
+          "server": "103.172.116.103",
+          "server_port": 9056,
+          "tag": "🇸🇬SG_563-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "rNBfNuuANFCAk7KB"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "430",
+          "server": "103.172.116.103",
+          "server_port": 9088,
+          "tag": "🇸🇬SG_568-1",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8npKgNzdkss2ytn"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "474",
+          "server": "103.172.116.79",
+          "server_port": 9003,
+          "tag": "🇸🇬SG_584",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "JdmRK9gMEqFgs8nP"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "432",
+          "server": "103.172.116.79",
+          "server_port": 9038,
+          "tag": "🇸🇬SG_595",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "gYCYXfkUQEs2TaJQ"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "487",
+          "server": "103.172.116.94",
+          "server_port": 9038,
+          "tag": "🇸🇬SG_596",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "gYCYXfkUQEs2TaJQ"
+        },
+        {
+          "groupid": "945c1bae-efd8-4658-b3dd-de7ddbbfaeae",
+          "latency": "1636",
+          "server": "103.163.218.2",
+          "server_port": 989,
+          "tag": "🇻🇳VN_1433",
+          "type": "shadowsocks",
+          "method": "aes-256-cfb",
+          "password": "f8f7aCzcPKbsF8p3"
+        }
+      ],
+      "urltests": []
+    }
+  ]
+}
